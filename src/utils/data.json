@@ -1,0 +1,259 @@
+[
+  {
+    "id": 0,
+    "firstname": "Zedude",
+    "lastname": "Nrnbtr",
+    "class": "11A",
+    "age": 17,
+    "alive": true,
+    "height": 180,
+    "hobbies": [
+      {
+        "id": 0,
+        "name": "rubikCube",
+        "title": "Rubik's Cubes",
+        "date": "2020-6-1"
+      },
+      {
+        "id": 1,
+        "name": "cs2",
+        "title": "Counter Strike 2",
+        "date": "2023-6-20"
+      },
+      {
+        "id": 2,
+        "name": "valorant",
+        "title": "Valorant",
+        "date": "2023-6-20"
+      }
+    ],
+    "gender": "male"
+  },
+  {
+    "id": 1,
+    "firstname": "Zunbileg",
+    "lastname": "Mungundush",
+    "class": "11A",
+    "age": 16,
+    "alive": true,
+    "height": 168,
+    "hobbies": [
+      {
+        "id": 0,
+        "name": "cs2",
+        "title": "Counter Strike 2",
+        "date": "2022-12-10"
+      },
+      {
+        "id": 1,
+        "name": "volleyball",
+        "title": "Volleyball",
+        "date": null
+      }
+    ],
+    "gender": "male"
+  },
+  {
+    "id": 2,
+    "firstname": "Sanchir",
+    "lastname": "Ariunbold",
+    "class": "11A",
+    "age": 17,
+    "alive": true,
+    "height": 176,
+    "hobbies": [
+      {
+        "id": 0,
+        "name": "art",
+        "title": "Drawing",
+        "date": "2020-6-1"
+      },
+      {
+        "id": 1,
+        "name": "valorant",
+        "title": "Valorant",
+        "date": null
+      }
+    ],
+    "gender": "male"
+  },
+  {
+    "id": 3,
+    "firstname": "Enkhbold",
+    "lastname": "Erdenejargal",
+    "class": "11A",
+    "age": 16,
+    "alive": true,
+    "height": 185,
+    "hobbies": [
+      {
+        "id": 0,
+        "name": "volleyball",
+        "title": "Volleyball",
+        "date": null
+      },
+      {
+        "id": 1,
+        "name": "cs2",
+        "title": "Counter Strike 2",
+        "date": null
+      },
+      {
+        "id": 2,
+        "name": "valorant",
+        "title": "Valorant",
+        "date": null
+      }
+    ],
+    "gender": "male"
+  },
+  {
+    "id": 4,
+    "firstname": "Bayalagsaikhan",
+    "lastname": null,
+    "class": null,
+    "age": 16,
+    "alive": false,
+    "height": 177,
+    "hobbies": [
+      {
+        "id": 0,
+        "name": "cs2",
+        "title": "Counter Strike 2",
+        "date": null
+      },
+      {
+        "id": 1,
+        "name": "valorant",
+        "title": "Valorant",
+        "date": null
+      }
+    ],
+    "gender": "male"
+  },
+  {
+    "id": 5,
+    "firstname": "Rockstar",
+    "lastname": "Rock",
+    "class": "11A",
+    "age": 16,
+    "alive": true,
+    "height": 183,
+    "hobbies": [
+      {
+        "id": 0,
+        "name": "dota",
+        "title": "Hating on League of Legends",
+        "date": null
+      },
+      {
+        "id": 1,
+        "name": "cs2",
+        "title": "Counter Strike 2",
+        "date": null
+      },
+      {
+        "id": 2,
+        "name": "valorant",
+        "title": "Valorant",
+        "date": null
+      }
+    ],
+    "gender": "male"
+  },
+  {
+    "id": 6,
+    "firstname": "Angarag",
+    "lastname": "Ariunbold",
+    "class": "11A",
+    "age": 17,
+    "alive": true,
+    "height": 159,
+    "hobbies": [
+      {
+        "id": 0,
+        "name": "art",
+        "title": "Drawing",
+        "date": null
+      },
+      {
+        "id": 1,
+        "name": "yaoi",
+        "title": "Yaoi",
+        "date": null
+      },
+      {
+        "id": 2,
+        "name": "manhwa",
+        "title": "Manhwa",
+        "date": null
+      }
+    ],
+    "gender": "female"
+  },
+  {
+    "id": 7,
+    "firstname": "Munkhjin",
+    "lastname": "Prod",
+    "class": "11A",
+    "age": 46,
+    "alive": true,
+    "height": 160,
+    "hobbies": [
+      {
+        "id": 0,
+        "name": "diceMasters",
+        "title": "Dice Masters",
+        "date": "2024-1-1"
+      },
+      {
+        "id": 1,
+        "name": "cs2",
+        "title": "Counter Strike 2",
+        "date": null
+      },
+      {
+        "id": 2,
+        "name": "beatMaking",
+        "title": "Making Beats",
+        "date": null
+      }
+    ],
+    "gender": "male"
+  },
+  {
+    "id": 8,
+    "firstname": "Shymelle",
+    "lastname": "Shymelle",
+    "class": "13B",
+    "age": 19,
+    "alive": true,
+    "height": 160,
+    "hobbies": [],
+    "gender": "female"
+  },
+  {
+    "id": 9,
+    "firstname": "Delgermurun",
+    "lastname": "Demo",
+    "class": "11A",
+    "age": 16,
+    "alive": false,
+    "height": 182,
+    "hobbies": [
+      {
+        "id": 0,
+        "name": "chinese",
+        "title": "Eating dogs",
+        "date": null
+      },
+      {
+        "id": 1,
+        "name": "modeling",
+        "title": "Modeling",
+        "date": "2022-6-20"
+      }
+    ],
+    "gender": "female"
+  }
+]
