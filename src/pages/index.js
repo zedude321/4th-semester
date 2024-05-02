@@ -1,4 +1,3 @@
-import { useEffect, useState } from "react";
 import data from "@/utils/data.json";
 
 export default function Home() {

@@ -27,7 +27,8 @@
         "date": "2023-6-20"
       }
     ],
-    "gender": "male"
+    "gender": "male",
+    "createdDate": "2007-03-21"
   },
   {
     "id": 1,
@@ -36,7 +37,7 @@
     "class": "11A",
     "age": 16,
     "alive": true,
-    "height": 168,
+    "height": 70,
     "hobbies": [
       {
         "id": 0,
@@ -51,7 +52,8 @@
         "date": null
       }
     ],
-    "gender": "male"
+    "gender": "male",
+    "createdDate": "2007-03-21"
   },
   {
     "id": 2,
@@ -75,7 +77,8 @@
         "date": null
       }
     ],
-    "gender": "male"
+    "gender": "male",
+    "createdDate": "2007-02-09"
   },
   {
     "id": 3,
@@ -105,7 +108,8 @@
         "date": null
       }
     ],
-    "gender": "male"
+    "gender": "male",
+    "createdDate": "2007-12-31"
   },
   {
     "id": 4,
@@ -129,7 +133,8 @@
         "date": null
       }
     ],
-    "gender": "male"
+    "gender": "male",
+    "createdDate": "2007-05-06"
   },
   {
     "id": 5,
@@ -159,7 +164,8 @@
         "date": null
       }
     ],
-    "gender": "male"
+    "gender": "male",
+    "createdDate": "2007-09-09"
   },
   {
     "id": 6,
@@ -189,7 +195,8 @@
         "date": null
       }
     ],
-    "gender": "female"
+    "gender": "female",
+    "createdDate": "2007-02-09"
   },
   {
     "id": 7,
@@ -219,7 +226,8 @@
         "date": null
       }
     ],
-    "gender": "male"
+    "gender": "male",
+    "createdDate": "2007-07-12"
   },
   {
     "id": 8,
@@ -230,7 +238,8 @@
     "alive": true,
     "height": 160,
     "hobbies": [],
-    "gender": "female"
+    "gender": "female",
+    "createdDate": "2005-09-23"
   },
   {
     "id": 9,
@@ -254,6 +263,175 @@
         "date": "2022-6-20"
       }
     ],
-    "gender": "female"
+    "gender": "female",
+    "createdDate": "2007-12-20"
+  },
+  {
+    "id": 10,
+    "firstname": "Talasgan",
+    "lastname": "Tajbak",
+    "class": "11A",
+    "age": 16,
+    "alive": true,
+    "height": 176,
+    "hobbies": [
+      {
+        "id": 0,
+        "name": "reading",
+        "title": "Reading",
+        "date": "2020-6-1"
+      }
+    ],
+    "gender": "male",
+    "createdDate": "2007-05-20"
+  },
+  {
+    "id": 11,
+    "firstname": "Arius",
+    "lastname": "Ariunsaikhan",
+    "class": "11A",
+    "age": 16,
+    "alive": true,
+    "height": 168,
+    "hobbies": [
+      {
+        "id": 0,
+        "name": "cs2",
+        "title": "Counter Strike 2",
+        "date": "2019-12-10"
+      }
+    ],
+    "gender": "male",
+    "createdDate": "2007-08-02"
+  },
+  {
+    "id": 12,
+    "firstname": "Chingun",
+    "lastname": "Ankhbayar",
+    "class": "11A",
+    "age": 16,
+    "alive": true,
+    "height": 176,
+    "hobbies": [
+      {
+        "id": 0,
+        "name": "cosplaying",
+        "title": "Cosplaying",
+        "date": "2024-4-1"
+      }
+    ],
+    "gender": "male",
+    "createdDate": "2007-07-09"
+  },
+  {
+    "id": 13,
+    "firstname": "Tsowoo",
+    "lastname": "Tswo",
+    "class": "11A",
+    "age": 17,
+    "alive": true,
+    "height": 140,
+    "hobbies": [
+      {
+        "id": 0,
+        "name": "volleyball",
+        "title": "Volleyball",
+        "date": null
+      },
+      {
+        "id": 1,
+        "name": "guns",
+        "title": "Guns",
+        "date": null
+      }
+    ],
+    "gender": "female",
+    "createdDate": "2007-02-09"
+  },
+  {
+    "id": 14,
+    "firstname": "Davaabat",
+    "lastname": "Daba",
+    "class": "11A",
+    "age": 16,
+    "alive": true,
+    "height": 178,
+    "hobbies": [],
+    "gender": "male",
+    "createdDate": "2007-05-06"
+  },
+  {
+    "id": 15,
+    "firstname": "Hansunder",
+    "lastname": "Ania",
+    "class": "11A",
+    "age": 16,
+    "alive": true,
+    "height": 183,
+    "hobbies": [
+      {
+        "id": 0,
+        "name": "manhwa",
+        "title": "Manhwa",
+        "date": null
+      }
+    ],
+    "gender": "male",
+    "createdDate": "2007-12-25"
+  },
+  {
+    "id": 16,
+    "firstname": "Tulga",
+    "lastname": "Ariun",
+    "class": "11A",
+    "age": 17,
+    "alive": true,
+    "height": 173,
+    "hobbies": [
+      {
+        "id": 0,
+        "name": "beingCringe",
+        "title": "Being Cringe",
+        "date": null
+      }
+    ],
+    "gender": "female",
+    "createdDate": "2007-04-09"
+  },
+  {
+    "id": 17,
+    "firstname": "Tseersdmdydg",
+    "lastname": "Myagad",
+    "class": "11A",
+    "age": 16,
+    "alive": true,
+    "height": 145,
+    "hobbies": [],
+    "gender": "female",
+    "createdDate": "2007-07-12"
+  },
+  {
+    "id": 18,
+    "firstname": "Temuulen",
+    "lastname": "Temubbi",
+    "class": "11A",
+    "age": 16,
+    "alive": true,
+    "height": 185,
+    "hobbies": [],
+    "gender": "male",
+    "createdDate": "2007-09-23"
+  },
+  {
+    "id": 19,
+    "firstname": "Purevbaatar",
+    "lastname": "Puba",
+    "class": "11A",
+    "age": 16,
+    "alive": true,
+    "height": 174,
+    "hobbies": [],
+    "gender": "male",
+    "createdDate": "2007-12-20"
   }
 ]
